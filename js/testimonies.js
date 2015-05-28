@@ -24,7 +24,7 @@ var g_testimonies = [
 	{
 		"id":4,
 		"author_id":2,
-		"content": g_orgName + " helps us respond quickly to opportunities with surge engineeting capacity for our team."
+		"content": g_orgName + " helps us respond quickly to opportunities with surge engineering capacity for our team."
 	},
 	{
 		"id":5,

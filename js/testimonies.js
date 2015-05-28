@@ -9,42 +9,42 @@ var g_testimonies = [
 	{
 		"id":1,
 		"author_id":1,
-		"content": "They work amazingly well under deadline, delivering a complex web application on time and on budget"
+		"content": "They work amazingly well under deadline, delivering a complex web application on time and on budget."
 	},
 	{
 		"id":2,
 		"author_id":1,
-		"content": "Their staff and leadership are talented, know web development inside out, and have accomplished everything we've asked for"
+		"content": "Their staff and leadership are talented, know web development inside out, and have accomplished everything we've asked for."
 	},
 	{
 		"id":3,
 		"author_id":1,
-		"content": "We couldn't be happier with our relationship -- it is no overstatement to say "+ g_orgName +" has been key to our success"
+		"content": "We couldn't be happier with our relationship -- it is no overstatement to say "+ g_orgName +" has been key to our success."
 	},
 	{
 		"id":4,
 		"author_id":2,
-		"content": g_orgName + " helps us respond quickly to opportunities with surge engineeting capacity for our team"
+		"content": g_orgName + " helps us respond quickly to opportunities with surge engineeting capacity for our team."
 	},
 	{
 		"id":5,
 		"author_id":3,
-		"content": "I have worked with "+ g_orgName +" on numerous projects over the past decade and found them to be reliable, timely, and professional"
+		"content": "I have worked with "+ g_orgName +" on numerous projects over the past decade and found them to be reliable, timely, and professional."
 	},
 	{
 		"id":6,
 		"author_id":3,
-		"content": "They love their work, and having their engagement and effort alongside me was always a pleasure"
+		"content": "They love their work, and having their engagement and effort alongside me was always a pleasure."
 	},
 	{
 		"id":7,
 		"author_id":4,
-		"content": "The applications they build just work right out of the gate, their code is clean and well-organized, and they deliver on-time, every time"
+		"content": "The applications they build just work right out of the gate, their code is clean and well-organized, and they deliver on-time, every time."
 	},
 	{
 		"id":8,
 		"author_id":4,
-		"content": "They've been a valued partner, working with us through the lows of start-up phase to the pressure that came with the growing popularity"
+		"content": "They've been a valued partner, working with us through the lows of start-up phase to the pressure that came with the growing popularity."
 	},
 ];
  
